@@ -12,14 +12,14 @@
                  <description>StartApp Fullscreen Ads library, supports iOS and Android</description>
                  <link>https://github.com/chen-fishbein/startapp-codenameone</link>
                  <version>1</version>
-                 <contributed>Chen</contributed>
+                 <contributed>CodenameOne</contributed>
 	</plugin>
 	<plugin fileName='CN1CircleProgress.cn1lib'>
                  <name>Circle Progress</name>
                  <description>Circle Progress Components</description>
                  <link>https://github.com/chen-fishbein/CN1CircleProgress</link>
                  <version>1</version>
-                 <contributed>Chen</contributed>
+                 <contributed>CodenameOne</contributed>
 	</plugin>
 
 </plugins>
