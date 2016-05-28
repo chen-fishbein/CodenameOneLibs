@@ -1,4 +1,4 @@
-﻿<plugins>
+<plugins>
 	<plugin fileName='AdmobFullScreen.cn1lib'>
                  <name>Admob Fullscreen Ads</name>
                  <description>Admob Fullscreen Ads library, supports iOS and Android</description>
